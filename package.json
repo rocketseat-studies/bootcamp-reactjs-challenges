@@ -1,0 +1,39 @@
+{
+  "name": "challenge-module-v.0.1",
+  "version": "0.1",
+  "description": "This is the first bootcamp challenge. Where this challenge was developed a Facebook-style posts feed. During development, it was necessary to develop the components, their styles and configure the ReactJS framework from scratch.",
+  "main": "index.js",
+  "repository": "git@github.com:rocketseat-studies/bootcamp-reactjs-challenges.git",
+  "author": "THIAGO DE BONIS CARVALHO SAAD SAUD <thiagodebonis@icloud.com>",
+  "license": "GPL-3.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}

@@ -1,0 +1,45 @@
+.container-card__post {
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  background-color: white !important;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+
+  @media (min-width: 320px) {
+    width: 15rem;
+  }
+
+  @media (min-width: 375px) {
+    width: 17rem;
+  }
+
+  @media (min-width: 414px) {
+    width: 19rem;
+  }
+
+  @media (min-width: 600px) {
+    width: 30rem;
+  }
+
+  @media (min-width: 768px) {
+    width: 35rem;
+  }
+
+  @media (min-width: 992px) {
+    width: 40rem;
+  }
+
+  header {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.5rem;
+  }
+
+  article {
+    padding-top: 1.4rem;
+    color: rgb(61, 61, 61);
+    text-align: justify;
+    line-height: 1.6rem;
+  }
+}

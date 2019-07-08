@@ -1,0 +1,16 @@
+.container-header__main {
+  padding: {
+    top: 0.01rem;
+    bottom: 0.01rem;
+  }
+
+  background-color: #4166b1;
+  border-bottom: 1px solid #ccc;
+
+  h1 {
+    font-size: 1.5rem;
+    font-weight: lighter;
+    color: white;
+    text-align: center;
+  }
+}

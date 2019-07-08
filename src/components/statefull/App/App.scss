@@ -1,0 +1,20 @@
+body {
+  margin: {
+    top: 0;
+    right: 0;
+    left: 0;
+  }
+
+  font-family: sans-serif;
+  background-color: #e9ebee;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+.container-posts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  background-color: rgb(236, 236, 236);
+}
