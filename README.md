@@ -15,6 +15,28 @@ As I started the project with `create-react-app` all the above settings already 
 
 **If you want to use these settings, do not use with a create-react-app project as it will generate conflicts.**
 
+After that you should install the following dependencies:
+
+    "@babel/core"
+    "@babel/plugin-proposal-class-properties"
+    "@babel/preset-env"
+    "@babel/preset-react"
+    "babel-eslint"
+    "babel-loader"
+    "css-loader"
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb"
+    "eslint-plugin-import"
+    "eslint-plugin-jsx-a11y"
+    "eslint-plugin-react"
+    "node-sass"
+    "prop-types"
+    "sass-loader"
+    "style-loader"
+    "webpack"
+    "webpack-cli"
+    "webpack-dev-server
+
 # Rules
 
 - The **Header** must be a **separate component**;
