@@ -9,6 +9,12 @@ This is the **first bootcamp challenge**. Where this challenge was developed a *
 - EditorConfig
 - Prettier
 
+As I started the project with `create-react-app` all the above settings already see by default. Because of this I have already left preconfigured to demonstrate my knowledge, the following files:
+
+`.babelrc .eslintrc .webpack.config`
+
+**If you want to use these settings, do not use with a create-react-app project as it will generate conflicts.**
+
 # Rules
 
 - The **Header** must be a **separate component**;
@@ -40,9 +46,9 @@ This command will install all existing dependencies in the `package.json` file a
 
 **Runs the app in the development mode**. I have already set up the execution script, just be in the **root folder of the project** and **type the following command** in your **cmd/terminal**:
 
-`yarn dev`
+`yarn start`
 or
-`npm run dev`
+`npm run start`
 
 Open this link [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
