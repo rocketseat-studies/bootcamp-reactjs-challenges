@@ -9,11 +9,11 @@ This is the **first bootcamp challenge**. Where this challenge was developed a *
 - EditorConfig
 - Prettier
 
-As I started the project with `create-react-app` all the above settings already see by default. Because of this I have already left preconfigured to demonstrate my knowledge, the following files:
+As I started the project with `create-react-app` all the above settings are already by default. Because of this I have already left preconfigured to demonstrate my knowledge, the following files:
 
-`.babelrc .eslintrc .webpack.config`
+`.babelrc`, `.eslintrc`, e `.webpack.config`
 
-**If you want to use these settings, do not use with a create-react-app project as it will generate conflicts.**
+**If you want to use these settings, do not use with a `create-react-app` project as it will generate conflicts.**
 
 After that you should install the following dependencies:
 
