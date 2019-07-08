@@ -24,7 +24,7 @@ After that you should install the following dependencies:
     "babel-eslint"
     "babel-loader"
     "css-loader"
-    "eslint": "^5.16.0",
+    "eslint",
     "eslint-config-airbnb"
     "eslint-plugin-import"
     "eslint-plugin-jsx-a11y"
