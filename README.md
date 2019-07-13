@@ -5,6 +5,7 @@ All of the **Rocketseat bootcamp** study **challenges at Reactjs developed by me
 # Branchs
 
 - [MODULE-01](https://github.com/rocketseat-studies/bootcamp-reactjs-challenges/tree/challenge-module-v.0.1)
+- [MODULE-02](https://github.com/rocketseat-studies/bootcamp-reactjs-challenges/tree/challenge-module-v.0.2)
 
 # Authors
 
