@@ -1,8 +1,8 @@
 # Challenge Module-02
 
-This is the **second bootcamp challenge **. Where in this challenge, from the user input is consumed in the Github API the given repository. Only two repositories are allowed for comparison.
+This is the **second bootcamp challenge**. Where in this challenge, as from the user input is consumed in the Github API the given repository. Only two repositories are allowed for comparison.
 
-During development, it was necessary to **develop the components, their styles, create services for consumption of API and armanzemento in LocalStorage, and use the MomentJS library for converting dates from scratch with the following tools:**
+During development, it was necessary to **develop the components, their styles, create services for consumption of API and armanzemento in LocalStorage, and use the MomentJS library for converting dates, with the following tools:**
 
 - npx create-react-app
 - styled-components
@@ -11,7 +11,7 @@ During development, it was necessary to **develop the components, their styles, 
 - LocalStorage
 - MomentJS
 
-This module has not applied refactoring techniques, code organization, or anything, so do not worry if the code is a little messy.
+**This module has not applied refactoring techniques, code organization, or anything, so do not worry if the code is a little messy.**
 
 # Rules
 
@@ -19,8 +19,6 @@ This module has not applied refactoring techniques, code organization, or anythi
 - **Create a button** in each repository to delete it from the listing and remove it from the
   `localStorage` as well;
 - **Create a button** in each repository to update your data for the new ones. Information for stars, forks, last commit, etc;
-
-**In this module I did not apply refactoring techniques, code organization or even UX / UI, so do not worry. This module is more functional than visual design, design patterns etc.**
 
 # Starting
 
