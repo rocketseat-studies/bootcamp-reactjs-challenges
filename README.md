@@ -1,6 +1,6 @@
 # Challenge Module-01
 
-This is the **first bootcamp challenge**. Where this challenge was developed a **Facebook-style posts feed**. During development, it was necessary to **develop the components, their styles and configure the ReactJS framework from scratch with the following tools:**
+This is the **first bootcamp challenge**. Where in this challenge was developed a **Facebook-style posts feed**. During development, it was necessary to **develop the components, their styles and configure the ReactJS framework from scratch with the following tools:**
 
 - Babel
 - Webpack
@@ -9,7 +9,7 @@ This is the **first bootcamp challenge**. Where this challenge was developed a *
 - EditorConfig
 - Prettier
 
-As I started the project with `create-react-app` all the above settings are already by default. Because of this I have already left preconfigured to demonstrate my knowledge, the following files:
+**As I started the project with `create-react-app` all the above settings, are already come by default. Because of this I have already left preconfigured to demonstrate my knowledge, the following files:**
 
 `.babelrc`, `.eslintrc`, e `.webpack.config`
 
@@ -78,7 +78,8 @@ Open this link [http://localhost:3000](http://localhost:3000) to view it in the 
 
 # Developed with
 
-- [REACT + REACT DOM + PROP TYPES](https://reactjs.org/)
+- [REACT + REACT DOM + PROPS](https://reactjs.org/)
+- [PROP-TYPES](https://www.npmjs.com/package/prop-types)
 - [SASS](https://sass-lang.com/)
 - [WEBPACK](https://webpack.js.org/)
 - [BABEL](https://babeljs.io/)
